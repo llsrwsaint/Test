@@ -1,0 +1,79 @@
+.background{
+  position: relative;
+  padding-top: 100px;
+  background-color: #81C6E8;
+}
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Itim', cursive,serif;
+}
+
+.cloud1{
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+.cloud2{
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+
+.javaimg{
+  width: 10%;
+  float: left;
+  margin-right: 30px;
+}
+
+.htmlimg{
+  width: 10%;
+  float: right;
+  margin-left: 30px;
+}
+
+.engimg{
+  width: 10%;
+  float: left;
+  margin-right: 30px;
+}
+
+.japanimg{
+  width: 10%;
+  float: right;
+  margin-left: 30px;  
+}
+
+h1{
+  margin-top: 50px;
+  font-family: 'Itim', cursive;
+  font-size: 563%;
+}
+
+h2{
+  font-family: 'Itim', cursive;
+  font-size: 3.5rem;
+}
+
+h3{
+  font-size: 2.5rem;
+}
+
+p{
+  font-size: 1.5rem;
+}
+
+.profile{
+  margin-top: 80px;
+}
+
+.profileimg{
+  width: 15%;
+}
+
+.skill-row{
+  width: 70%;
+  margin: 70px auto 150px auto;
+  text-align: left;
+}
